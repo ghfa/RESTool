@@ -71,7 +71,7 @@ A list of all methods which are available in your RESTfull API. Available method
 * get
 * post
 * put
-* post
+* delete
 
 #### Methods
 
